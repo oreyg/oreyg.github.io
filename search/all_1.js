@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['begin_0',['begin',['../df/da2/class_t_flat_map.html#a195eb6136c4fbb465528f1ee3fbf5c2e',1,'TFlatMap::begin()'],['../d8/da1/class_t_flat_set.html#a7ad965cca99da2e68c5cafebb59bbac0',1,'TFlatSet::begin()'],['../de/d98/classhqfs_1_1_directory_enumerator.html#a71638669bd886a6098f7b707708b2d0f',1,'hqfs::DirectoryEnumerator::begin()'],['../de/d1f/class_path.html#a08a3b7fcbf9b8a9a3b822483943d5e66',1,'Path::begin()'],['../df/d81/classhq_1_1_t_render_entities.html#a7571a1b920cbaa46d2d25f166266ca7f',1,'hq::TRenderEntities::begin()'],['../df/d81/classhq_1_1_t_render_entities.html#a6928390329e510ff025eba113b488fa1',1,'hq::TRenderEntities::begin() const']]],
+  ['begindefragmentation_1',['BeginDefragmentation',['../d5/d18/class_d3_d12_m_a_1_1_pool.html#adc87bb49c192de8f5a9ca0484c499575',1,'D3D12MA::Pool::BeginDefragmentation()'],['../dd/d32/class_d3_d12_m_a_1_1_allocator.html#a08e1468f1dbb63ce3bf6680e592b2143',1,'D3D12MA::Allocator::BeginDefragmentation()']]],
+  ['beginpass_2',['BeginPass',['../d0/d68/class_d3_d12_m_a_1_1_defragmentation_context.html#a1606c015d02edc094bb246986159d592',1,'D3D12MA::DefragmentationContext']]],
+  ['bidi_5fclass_3',['bidi_class',['../d9/dfe/structutf8proc__property__struct.html#abd1fde92128233b6dbfdeb70b92c80d9',1,'utf8proc_property_struct']]],
+  ['bisactive_4',['bIsActive',['../d8/d14/structworld_1_1_scene_flags.html#ac188008de88dce44cc637eb77c00a0b1',1,'world::SceneFlags']]],
+  ['biseditor_5',['bIsEditor',['../d8/d14/structworld_1_1_scene_flags.html#ab45478ae7b6aaec9ea5616b88c628b9c',1,'world::SceneFlags']]],
+  ['bisloaded_6',['bIsLoaded',['../d8/d14/structworld_1_1_scene_flags.html#aed46859c77ab2a63af18fb105e22066e',1,'world::SceneFlags']]],
+  ['bisloading_7',['bIsLoading',['../d8/d14/structworld_1_1_scene_flags.html#a9fd813f583a1c625fe3a15bd9723aee1',1,'world::SceneFlags']]],
+  ['blockbytes_8',['BlockBytes',['../d1/d92/struct_d3_d12_m_a_1_1_statistics.html#a65557893f80ff116c43965dbd8d45812',1,'D3D12MA::Statistics']]],
+  ['blockcount_9',['BlockCount',['../d1/d92/struct_d3_d12_m_a_1_1_statistics.html#a780b0ddd26d8f6b033ddaa3ba436bf65',1,'D3D12MA::Statistics']]],
+  ['blockmetadata_10',['BlockMetadata',['../d6/d68/class_d3_d12_m_a_1_1_block_metadata.html',1,'D3D12MA']]],
+  ['blockmetadata_5flinear_11',['BlockMetadata_Linear',['../d8/d87/class_d3_d12_m_a_1_1_block_metadata___linear.html',1,'D3D12MA']]],
+  ['blockmetadata_5ftlsf_12',['BlockMetadata_TLSF',['../d7/d25/class_d3_d12_m_a_1_1_block_metadata___t_l_s_f.html',1,'D3D12MA']]],
+  ['blocksize_13',['BlockSize',['../dd/df1/struct_d3_d12_m_a_1_1_p_o_o_l___d_e_s_c.html#af7284cc51a8ed5b551075584256de23c',1,'D3D12MA::POOL_DESC']]],
+  ['blockvector_14',['BlockVector',['../d0/d6f/class_d3_d12_m_a_1_1_block_vector.html',1,'D3D12MA']]],
+  ['boundclass_15',['boundclass',['../d9/dfe/structutf8proc__property__struct.html#a0b4f5087bd0ea76a375de47dfaa2110b',1,'utf8proc_property_struct']]],
+  ['budget_16',['Budget',['../d7/dff/struct_d3_d12_m_a_1_1_budget.html',1,'D3D12MA']]],
+  ['budgetbytes_17',['BudgetBytes',['../d7/dff/struct_d3_d12_m_a_1_1_budget.html#a326515f08d89ee2e31dcfdd5c1e8ac71',1,'D3D12MA::Budget']]],
+  ['buffers_18',['Buffers',['../d1/dc5/structhqgltf_1_1_g_l_t_f_root_1_1_buffers.html',1,'hqgltf::GLTFRoot']]],
+  ['bufferviews_19',['BufferViews',['../d0/df6/structhqgltf_1_1_g_l_t_f_root_1_1_buffer_views.html',1,'hqgltf::GLTFRoot']]],
+  ['buildstatsstring_20',['BuildStatsString',['../dd/d32/class_d3_d12_m_a_1_1_allocator.html#a29716b3084916abed7793bf2ec4b65db',1,'D3D12MA::Allocator::BuildStatsString()'],['../de/d96/class_d3_d12_m_a_1_1_virtual_block.html#a828a27070bfa762cae796d4c8f2ef703',1,'D3D12MA::VirtualBlock::BuildStatsString()']]],
+  ['bytesfreed_21',['BytesFreed',['../d7/d2c/struct_d3_d12_m_a_1_1_d_e_f_r_a_g_m_e_n_t_a_t_i_o_n___s_t_a_t_s.html#a7ed1bf228f39989ff3419ce3f50002c9',1,'D3D12MA::DEFRAGMENTATION_STATS']]],
+  ['bytesmoved_22',['BytesMoved',['../d7/d2c/struct_d3_d12_m_a_1_1_d_e_f_r_a_g_m_e_n_t_a_t_i_o_n___s_t_a_t_s.html#adc4c36df302a6b320443a4a33a3e31c8',1,'D3D12MA::DEFRAGMENTATION_STATS']]]
+];

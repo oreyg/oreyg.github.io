@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['defaultallocator_0',['DefaultAllocator',['../d4/dc9/classhq_1_1_default_allocator.html',1,'hq']]],
+  ['defragmentation_5fdesc_1',['DEFRAGMENTATION_DESC',['../d8/dbc/struct_d3_d12_m_a_1_1_d_e_f_r_a_g_m_e_n_t_a_t_i_o_n___d_e_s_c.html',1,'D3D12MA']]],
+  ['defragmentation_5fmove_2',['DEFRAGMENTATION_MOVE',['../d3/def/struct_d3_d12_m_a_1_1_d_e_f_r_a_g_m_e_n_t_a_t_i_o_n___m_o_v_e.html',1,'D3D12MA']]],
+  ['defragmentation_5fpass_5fmove_5finfo_3',['DEFRAGMENTATION_PASS_MOVE_INFO',['../d6/dda/struct_d3_d12_m_a_1_1_d_e_f_r_a_g_m_e_n_t_a_t_i_o_n___p_a_s_s___m_o_v_e___i_n_f_o.html',1,'D3D12MA']]],
+  ['defragmentation_5fstats_4',['DEFRAGMENTATION_STATS',['../d7/d2c/struct_d3_d12_m_a_1_1_d_e_f_r_a_g_m_e_n_t_a_t_i_o_n___s_t_a_t_s.html',1,'D3D12MA']]],
+  ['defragmentationcontext_5',['DefragmentationContext',['../d0/d68/class_d3_d12_m_a_1_1_defragmentation_context.html',1,'D3D12MA']]],
+  ['defragmentationcontextpimpl_6',['DefragmentationContextPimpl',['../df/d3c/class_d3_d12_m_a_1_1_defragmentation_context_pimpl.html',1,'D3D12MA']]],
+  ['delegate_7',['Delegate',['../d2/d1a/struct_graph_editor_1_1_delegate.html',1,'GraphEditor::Delegate'],['../dc/d3f/struct_im_curve_edit_1_1_delegate.html',1,'ImCurveEdit::Delegate'],['../d4/dff/struct_im_gradient_1_1_delegate.html',1,'ImGradient::Delegate']]],
+  ['deleteitemsaction_8',['DeleteItemsAction',['../d4/d6c/structax_1_1_node_editor_1_1_detail_1_1_delete_items_action.html',1,'ax::NodeEditor::Detail']]],
+  ['detachrenderablerequest_9',['DetachRenderableRequest',['../dd/d5e/structworld_1_1_detach_renderable_request.html',1,'world']]],
+  ['detailedstatistics_10',['DetailedStatistics',['../df/d95/struct_d3_d12_m_a_1_1_detailed_statistics.html',1,'D3D12MA']]],
+  ['directoryenumerator_11',['DirectoryEnumerator',['../de/d98/classhqfs_1_1_directory_enumerator.html',1,'hqfs']]],
+  ['directoryiterator_12',['DirectoryIterator',['../d0/d5b/classhqfs_1_1_directory_iterator.html',1,'hqfs']]],
+  ['double1_13',['double1',['../d0/d8a/structstdext_1_1inplace__function__detail_1_1aligned__storage__helper_1_1double1.html',1,'stdext::inplace_function_detail::aligned_storage_helper']]],
+  ['double4_14',['double4',['../d8/db4/structstdext_1_1inplace__function__detail_1_1aligned__storage__helper_1_1double4.html',1,'stdext::inplace_function_detail::aligned_storage_helper']]],
+  ['dragaction_15',['DragAction',['../d4/de5/structax_1_1_node_editor_1_1_detail_1_1_drag_action.html',1,'ax::NodeEditor::Detail']]],
+  ['dx12shadercompiler_16',['DX12ShaderCompiler',['../d7/d19/classhgfx_1_1_d_x12_shader_compiler.html',1,'hgfx']]]
+];
